@@ -5,9 +5,15 @@ This template provides a minimal setup to get React working in Bun + Vite with H
 
 ## Getting Started
 
-Start your local environment:
+Clone the repository and start the local environment:
 
 ```sh
+git clone git@github.com:playolaizq/bun-todo-app.git
+
+cd bun-todo-app
+
+bun install
+
 bun run dev
 ```
 
